@@ -5,7 +5,7 @@
 
 [![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-muf&show_icons=true&theme=radical)](https://github.com/e-muf/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-muf&layout=compact&theme=radical?hide=html,css,scss)](https://github.com/e-muf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-muf&layout=compact&theme=radical&hide=html,css,scss)](https://github.com/e-muf/github-readme-stats)
 
 
 - 🔭 I’m currently computer engineer student
