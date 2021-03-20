@@ -3,6 +3,8 @@
 
 ### Hi there 👋
 
+[![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-muf)](https://github.com/e-muf/github-readme-stats)
+
 <!--
 **e-muf/e-muf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
