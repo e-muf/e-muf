@@ -1,4 +1,4 @@
-[![Header](https://github.com/e-muf/e-muf/blob/main/readme_header.png "Header")](https://www.linkedin.com/in/emnl-fmtz/)
+[![Header](https://github.com/e-muf/e-muf/blob/main/readme_header.gif "Header")](https://www.linkedin.com/in/emnl-fmtz/)
 
 
 ### Hi there 👋
