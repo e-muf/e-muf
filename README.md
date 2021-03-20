@@ -5,7 +5,6 @@
 
 [![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-muf&show_icons=true&theme=radical)](https://github.com/e-muf/github-readme-stats)
 
-[![Langs](https://ionicabizau.github.io/github-profile-languages/api.html?e-muf)](https://ionicabizau.github.io/github-profile-languages/api.html)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-muf&layout=compact&theme=radical&hide=html,css,scss)](https://github.com/e-muf/github-readme-stats)
 
